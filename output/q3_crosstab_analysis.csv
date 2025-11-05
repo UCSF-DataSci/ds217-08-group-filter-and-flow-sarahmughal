@@ -1,0 +1,17 @@
+facility_type,encounter_type,North,South,West,Total
+Hospital,Emergency,0,127,0,127
+Hospital,Inpatient,0,95,0,95
+Hospital,Lab,0,100,0,100
+Hospital,Office Visit,0,85,0,85
+Hospital,Outpatient Procedure,0,102,0,102
+Specialty Center,Emergency,0,236,182,418
+Specialty Center,Inpatient,0,210,191,401
+Specialty Center,Lab,0,211,180,391
+Specialty Center,Office Visit,0,175,200,375
+Specialty Center,Outpatient Procedure,0,194,193,387
+Urgent Care,Emergency,109,190,195,494
+Urgent Care,Inpatient,90,190,201,481
+Urgent Care,Lab,90,229,228,547
+Urgent Care,Office Visit,112,178,200,490
+Urgent Care,Outpatient Procedure,109,183,215,507
+Total,,510,2505,1985,5000

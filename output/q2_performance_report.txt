@@ -1,0 +1,21 @@
+facility_name	provider_id	provider_name	years_experience	specialty	encounter_count
+Cardiology Specialty Center	PR0036	Alex Anderson	6.0	General Practice	4
+Cardiology Specialty Center	PR0391	Jordan Anderson	32.0	Neurology	4
+City General Hospital	PR0371	Alex Martinez	16.0	Radiology	4
+City General Hospital	PR0473	Quinn Williams	25.0	Pediatrics	4
+Community Health Clinic	PR0288	Quinn Rodriguez	35.0	General Practice	3
+Community Health Clinic	PR0137	Alex Garcia	17.0	Oncology	3
+Emergency Medical Center	PR0437	Alex Jones	14.0	Endocrinology	3
+Emergency Medical Center	PR0135	Casey Garcia	22.0	Orthopedics	3
+Northside Urgent Care	PR0038	Sam Williams	20.0	Neurology	4
+Northside Urgent Care	PR0182	Jordan Wilson	25.0	Oncology	4
+Oncology Treatment Center	PR0385	Drew Wilson	9.0	Orthopedics	4
+Oncology Treatment Center	PR0006	Riley Williams	14.0	Endocrinology	3
+Pediatric Care Center	PR0028	Avery Jones	36.0	Primary Care	4
+Pediatric Care Center	PR0424	Cameron Davis	22.0	Primary Care	3
+Primary Care Clinic	PR0248	Jordan Smith	20.0	Pediatrics	3
+Primary Care Clinic	PR0388	Alex Williams	17.0	Cardiology	3
+Regional Medical Center	PR0048	Jamie Davis	5.0	Oncology	3
+Regional Medical Center	PR0146	Taylor Rodriguez	6.0	Oncology	3
+Surgical Specialty Center	PR0438	Cameron Anderson	35.0	Endocrinology	3
+Surgical Specialty Center	PR0387	Riley Rodriguez	35.0	Neurology	3

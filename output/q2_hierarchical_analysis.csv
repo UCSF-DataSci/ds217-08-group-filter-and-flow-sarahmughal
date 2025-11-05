@@ -1,0 +1,7 @@
+facility_type,region,mean_years_experience,std_years_experience,min_years_experience,max_years_experience,range_years_experience
+Hospital,South,18.596774193548388,8.787956881146883,2.0,39.0,37.0
+Specialty Center,South,21.8876404494382,10.787659408120835,1.0,39.0,38.0
+Specialty Center,West,18.032608695652176,11.291785487404104,1.0,37.0,36.0
+Urgent Care,North,17.208333333333332,10.25620379633989,1.0,38.0,37.0
+Urgent Care,South,20.103092783505154,10.041045488479682,2.0,39.0,37.0
+Urgent Care,West,18.78409090909091,11.374956221854736,1.0,39.0,38.0

@@ -1,0 +1,11 @@
+facility_id,facility_name,facility_type,region,beds,established_date
+FAC001,City General Hospital,Urgent Care,South,276,1999-11-27
+FAC002,Community Health Clinic,Urgent Care,North,160,2023-03-31
+FAC003,Regional Medical Center,Urgent Care,South,459,1982-05-10
+FAC004,Northside Urgent Care,Urgent Care,West,313,1994-10-04
+FAC005,Cardiology Specialty Center,Specialty Center,West,21,2016-09-26
+FAC006,Oncology Treatment Center,Hospital,South,252,1994-03-19
+FAC007,Pediatric Care Center,Specialty Center,South,235,2012-10-03
+FAC008,Emergency Medical Center,Specialty Center,South,344,2010-11-23
+FAC009,Primary Care Clinic,Specialty Center,West,48,1995-09-13
+FAC010,Surgical Specialty Center,Urgent Care,West,474,1997-02-25
