@@ -1,3 +1,5 @@
+Assignment 8 — Question 2: Performance Report
+
 facility_name	provider_id	provider_name	years_experience	specialty	encounter_count
 Cardiology Specialty Center	PR0337	Riley Martinez	14	Endocrinology	4
 Cardiology Specialty Center	PR0368	Jamie Garcia	8	Primary Care	4

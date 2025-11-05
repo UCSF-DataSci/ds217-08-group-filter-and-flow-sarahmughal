@@ -1,3 +1,5 @@
+Assignment 8 — Question 1: Aggregation Report
+
 facility_name	total_providers	avg_years_experience	total_service_charge	total_insurance_paid	avg_years_experience_mean	std_years_experience	normalized_years_experience	total_service_charge_total
 Cardiology Specialty Center	297	19.31972789115646	276658.83	222139.04	19.31972789115646	10.484611924077868	0.0	276658.83
 City General Hospital	312	19.5630081300813	295508.13	236798.5	19.5630081300813	10.702137018258142	0.0	295508.13
