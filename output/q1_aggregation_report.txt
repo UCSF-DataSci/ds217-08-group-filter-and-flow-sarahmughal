@@ -1,13 +1,13 @@
-Assignment 8 — Question 1: Aggregation Report
+Assignment 8 - Question 1: Aggregation Report
 
-facility_name	total_providers	avg_years_experience	total_service_charge	total_insurance_paid	avg_years_experience_mean	std_years_experience	normalized_years_experience	total_service_charge_total
-Cardiology Specialty Center	297	19.31972789115646	276658.83	222139.04	19.31972789115646	10.484611924077868	0.0	276658.83
-City General Hospital	312	19.5630081300813	295508.13	236798.5	19.5630081300813	10.702137018258142	0.0	295508.13
-Community Health Clinic	328	20.16078431372549	334992.21	269207.92	20.16078431372549	11.04401051893677	0.0	334992.21
-Emergency Medical Center	299	19.66868686868687	310735.25	248439.2	19.66868686868687	11.023866696226115	0.0	310735.25
-Northside Urgent Care	305	20.137014314928425	297283.06	236839.71	20.137014314928425	10.581438670904161	0.0	297283.06
-Oncology Treatment Center	324	19.3811394891945	334927.3	267183.95	19.3811394891945	10.872386004882548	0.0	334927.3
-Pediatric Care Center	326	19.811676082862522	361811.04	291790.95	19.811676082862522	10.999242478915267	0.0	361811.04
-Primary Care Clinic	316	20.102970297029703	323315.71	260297.44	20.102970297029703	11.077168491755957	0.0	323315.71
-Regional Medical Center	309	20.209205020920503	316284.98	251750.43	20.209205020920503	11.575934653337479	0.0	316284.98
-Surgical Specialty Center	340	20.778181818181817	349909.18	278503.38	20.778181818181817	11.35813247735185	0.0	349909.18
+              facility_name  total_providers  avg_years_experience  total_service_charge  total_insurance_paid  avg_years_experience_mean  std_years_experience  normalized_years_experience  total_service_charge_total
+Cardiology Specialty Center              297             19.319728             276658.83             222139.04                  19.319728             10.484612                          0.0                   276658.83
+      City General Hospital              312             19.563008             295508.13             236798.50                  19.563008             10.702137                          0.0                   295508.13
+    Community Health Clinic              328             20.160784             334992.21             269207.92                  20.160784             11.044011                          0.0                   334992.21
+   Emergency Medical Center              299             19.668687             310735.25             248439.20                  19.668687             11.023867                          0.0                   310735.25
+      Northside Urgent Care              305             20.137014             297283.06             236839.71                  20.137014             10.581439                          0.0                   297283.06
+  Oncology Treatment Center              324             19.381139             334927.30             267183.95                  19.381139             10.872386                          0.0                   334927.30
+      Pediatric Care Center              326             19.811676             361811.04             291790.95                  19.811676             10.999242                          0.0                   361811.04
+        Primary Care Clinic              316             20.102970             323315.71             260297.44                  20.102970             11.077168                          0.0                   323315.71
+    Regional Medical Center              309             20.209205             316284.98             251750.43                  20.209205             11.575935                          0.0                   316284.98
+  Surgical Specialty Center              340             20.778182             349909.18             278503.38                  20.778182             11.358132                          0.0                   349909.18
